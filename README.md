@@ -150,8 +150,8 @@ bun run format
 
 Attached demo photos:
 
-![Demo 1](Demo 1.png)
-![Demo 2](Demo 2.png)
+![Demo 1](./Demo%201.png)
+![Demo 2](./Demo%202.png)
 
 Suggested screenshot list:
 
