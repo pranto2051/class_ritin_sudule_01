@@ -148,14 +148,10 @@ bun run format
 
 ## 8. Demo Screenshots
 
-Attach your demo photos in this section by replacing the placeholder paths below.
+Attached demo photos:
 
-```md
-![Login Page](docs/demo/login.png)
-![Dashboard](docs/demo/dashboard.png)
-![Subjects Management](docs/demo/subjects.png)
-![Schedule Page](docs/demo/schedule.png)
-```
+![Demo 1](Demo 1.png)
+![Demo 2](Demo 2.png)
 
 Suggested screenshot list:
 
